@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/benja/Desktop/PASS3/PASS3/Content/Fonts/RegFont.spritefont</SourceFile>
+  <SourceTime>2023-06-01T15:51:51.6912889-04:00</SourceTime>
+  <DestFile>C:/Users/benja/Desktop/PASS3/PASS3/Content/bin/DesktopGL/Fonts/RegFont.xnb</DestFile>
+  <DestTime>2023-06-01T15:52:00.3232652-04:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2023-03-23T10:24:22.7153535-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2023-03-23T10:24:22.7153535-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

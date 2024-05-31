@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/benja/Desktop/PASS3/PASS3/Content/Songs/Menu.mp3</SourceFile>
+  <SourceTime>2023-06-08T20:16:45.5979514-04:00</SourceTime>
+  <DestFile>C:/Users/benja/Desktop/PASS3/PASS3/Content/bin/DesktopGL/Songs/Menu.xnb</DestFile>
+  <DestTime>2023-06-09T10:49:21.6255578-04:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2023-03-23T10:24:22.7153535-04:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2023-03-23T10:24:22.7153535-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/Users/benja/Desktop/PASS3/PASS3/Content/bin/DesktopGL/Songs/Menu.ogg</string>
+  </BuildOutput>
+</PipelineBuildEvent>
