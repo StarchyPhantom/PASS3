@@ -17,3 +17,7 @@ You create your own map, which enemies will use pathfinding to navigate.
 
 Honestly, this project was made to be a hybrid of a proof of concept and framework for a more complete project, 
 due to the limited enemies and unused tower class archetypes.
+
+Unfortunatly, the design document was lost due to the deletion of my old school account.
+This is one of my earlier projects, but a proud one demonstrating my skills as a programmer (not an artist haha).
+A video demo will be posted around the 11th of May, 2025
